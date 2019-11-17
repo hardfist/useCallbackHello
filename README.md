@@ -1,2 +1,0 @@
-# useCallbackHello
-Created with CodeSandbox
